@@ -1,0 +1,422 @@
+{
+    "songs": [
+        {
+            "songId": "いつかいい感じにアレしよう",
+            "category": "POPS＆アニメ",
+            "title": "いつかいい感じにアレしよう",
+            "artist": "カクとイムラ(CV：松本慶祐)",
+            "bpm": 144,
+            "imageName": "6571194c327dc15b4388fc8fe67102b0ef5d6bbdb1be0807d0e5473496b268fe.png",
+            "version": "maimaiでらっくす PLUS",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "basic",
+                    "level": "4",
+                    "levelValue": 4,
+                    "internalLevel": null,
+                    "internalLevelValue": 4,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "advanced",
+                    "level": "6",
+                    "levelValue": 6,
+                    "internalLevel": null,
+                    "internalLevelValue": 6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": "12.9",
+                    "internalLevelValue": 12.9,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "オトモダチフィルム",
+            "category": "POPS＆アニメ",
+            "title": "オトモダチフィルム",
+            "artist": "オーイシマサヨシ",
+            "bpm": 158,
+            "imageName": "ad61e1031f785f1861b7c9e985e793282e808d711db35b55faa2f3bc991ef6e7.png",
+            "version": "maimaiでらっくす PLUS",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "basic",
+                    "level": "4",
+                    "levelValue": 4,
+                    "internalLevel": null,
+                    "internalLevelValue": 4,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "advanced",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "六厘歌",
+            "category": "POPS＆アニメ",
+            "title": "六厘歌",
+            "artist": "六厘舎",
+            "bpm": 140,
+            "imageName": "a78c4bd60c4e893093c6a576ed11865348d5d7ac1d4ca7ac0dbb9c952c42d362.png",
+            "version": "maimaiでらっくす PLUS",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "basic",
+                    "level": "3",
+                    "levelValue": 3,
+                    "internalLevel": null,
+                    "internalLevelValue": 3,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "advanced",
+                    "level": "6",
+                    "levelValue": 6,
+                    "internalLevel": null,
+                    "internalLevelValue": 6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "馬と鹿",
+            "category": "POPS＆アニメ",
+            "title": "馬と鹿",
+            "artist": "米津玄師",
+            "bpm": 91,
+            "imageName": "66f84deb504ffef5d3c3e91bcad289d71ad86ad3ae687e80eccc41302fbebb0f.png",
+            "version": "maimaiでらっくす PLUS",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "basic",
+                    "level": "1",
+                    "levelValue": 1,
+                    "internalLevel": null,
+                    "internalLevelValue": 1,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "advanced",
+                    "level": "5",
+                    "levelValue": 5,
+                    "internalLevel": null,
+                    "internalLevelValue": 5,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "ノーポイッ!",
+            "category": "POPS＆アニメ",
+            "title": "ノーポイッ!",
+            "artist": "Petit Rabbit's",
+            "bpm": 158,
+            "imageName": "6b8af1be057649016007ed05386a846bfd4ac6f0a341512d03611cf327968a59.png",
+            "version": "Splash",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "basic",
+                    "level": "2",
+                    "levelValue": 2,
+                    "internalLevel": null,
+                    "internalLevelValue": 2,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "advanced",
+                    "level": "6",
+                    "levelValue": 6,
+                    "internalLevel": null,
+                    "internalLevelValue": 6,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "Splash"
+                }
+            ]
+        },
+        {
+            "songId": "町かどタンジェント",
+            "category": "POPS＆アニメ",
+            "title": "町かどタンジェント",
+            "artist": "shami momo（吉田優子・千代田桃）／CV：小原好美・鬼頭明里",
+            "bpm": 165,
+            "imageName": "ee6e84711efc00ce528b570ad56b1fc4c024da33dda7d12a31eae5521a2a1cda.png",
+            "version": "Splash",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "basic",
+                    "level": "3",
+                    "levelValue": 3,
+                    "internalLevel": null,
+                    "internalLevelValue": 3,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "advanced",
+                    "level": "6",
+                    "levelValue": 6,
+                    "internalLevel": null,
+                    "internalLevelValue": 6,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false,
+                    "version": "Splash"
+                }
+            ]
+        },
+        {
+            "songId": "紅蓮華",
+            "category": "POPS＆アニメ",
+            "title": "紅蓮華",
+            "artist": "LiSA",
+            "bpm": 135,
+            "imageName": "c7dbd8037378aa175cb703319f286100fe9a7602924a8947dd875ef8e28a0080.png",
+            "version": "Splash",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "basic",
+                    "level": "3",
+                    "levelValue": 3,
+                    "internalLevel": null,
+                    "internalLevelValue": 3,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "advanced",
+                    "level": "6",
+                    "levelValue": 6,
+                    "internalLevel": null,
+                    "internalLevelValue": 6,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "remaster",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.0",
+                    "internalLevelValue": 13,
+                    "isSpecial": false,
+                    "version": "Splash"
+                }
+            ]
+        },
+        {
+            "songId": "MIRACLE RUSH",
+            "category": "POPS＆アニメ",
+            "title": "MIRACLE RUSH",
+            "artist": "StylipS",
+            "bpm": 168,
+            "imageName": "70f0870a00be2aa45f109b5371953380965ff76cffb43aeb94877aad94064ad7.png",
+            "version": "Splash",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "basic",
+                    "level": "3",
+                    "levelValue": 3,
+                    "internalLevel": null,
+                    "internalLevelValue": 3,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "advanced",
+                    "level": "6",
+                    "levelValue": 6,
+                    "internalLevel": null,
+                    "internalLevelValue": 6,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": "12.0",
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "Splash"
+                }
+            ]
+        }
+    ]
+}
