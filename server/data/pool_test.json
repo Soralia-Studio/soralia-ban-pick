@@ -336,7 +336,7 @@
             "bpm": 140,
             "imageName": "0646d0658a7ec5c7fe560fdf19d386475b71a31129af0cdd506b7f400b19599c.png",
             "version": "MURASAKi PLUS",
-            "theme": "",
+            "theme": "Metropolis",
             "sheets": [
                 {
                     "type": "std",
@@ -368,7 +368,7 @@
             "bpm": 145,
             "imageName": "a752596dc1a29e8b1db400a2e46680840b69d744c1c1162ec855beb3a327d67f.png",
             "version": "MiLK",
-            "theme": "",
+            "theme": "Metropolis",
             "sheets": [
                 {
                     "type": "std",
