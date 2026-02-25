@@ -26,6 +26,7 @@ export default function AdminPage() {
                         disabled={gameState?.phase !== PhaseOrder.Waiting}
                     >
                         <option value="random">Random Pool</option>
+                        <option value="tests">Test Pool</option>
                         <option value="top_16">Top 16</option>
                         <option value="top_8">Top 8</option>
                         <option value="quarter_finals">Quarter Finals</option>

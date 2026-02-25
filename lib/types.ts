@@ -39,6 +39,7 @@ export interface Song {
     bpm: number;
     imageName: string;
     version: string;
+    theme: string;
     releaseDate: string;
     isNew: boolean;
     isLocked: boolean;
@@ -60,6 +61,7 @@ export type PlayerSide = "player1" | "player2" | null;
 
 export type PresetType =
     | "random"
+    | "tests"
     | "top_16"
     | "top_8"
     | "quarter_finals"
