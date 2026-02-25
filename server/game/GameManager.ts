@@ -43,19 +43,20 @@ export class GameManager {
         return shuffled.slice(0, count);
     }
 
+    private getSongsForTheme(theme: string): Song[] {
+        const allTestSongs = (testData as unknown as { songs: Song[] }).songs;
+        const filteredSongs = allTestSongs.filter((song: any) => song.theme === theme);
+        
+        const shuffled = [...filteredSongs].sort(() => 0.5 - Math.random());
+        return shuffled.slice(0, 8);
+    }
+
     private getSongsForPreset(preset: PresetType): Song[] {
         let pool: Song[] = [];
         switch (preset) {
             case "tests": {
-                const allTestSongs = (testData as unknown as { songs: Song[] }).songs;
-                const metropolisSongs = allTestSongs.filter((song: any) => song.theme === "Youth");
-                
-                if (metropolisSongs.length < 8) {
-                    return metropolisSongs;
-                }
-                
-                const shuffled = [...metropolisSongs].sort(() => 0.5 - Math.random());
-                return shuffled.slice(0, 8);
+                pool = this.getSongsForTheme("Metropolis");
+                break;
             }
             case "top_16":
                 pool = top16Data.songs as unknown as Song[];
