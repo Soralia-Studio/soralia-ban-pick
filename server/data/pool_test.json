@@ -1,0 +1,4965 @@
+{
+    "songs": [
+        {
+            "songId": "君の知らない物語",
+            "category": "POPS＆アニメ",
+            "title": "君の知らない物語",
+            "artist": "supercell「化物語」",
+            "bpm": 181,
+            "imageName": "b9d06643b0f9db1f154aad251470631bb688d1b5fb36566738d2c1f3cd488566.png",
+            "version": "GreeN",
+            "theme": "Youth",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false,
+                    "version": "GreeN"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false,
+                    "version": "GreeN"
+                }
+            ]
+        },
+        {
+            "songId": "Our Fighting",
+            "category": "ゲーム＆バラエティ",
+            "title": "Our Fighting",
+            "artist": "クーナ(CV 喜多村英梨)「PHANTASY STAR ONLINE 2」",
+            "bpm": 165,
+            "imageName": "14781baf4201173e1c8ddf380c97e3894327ee2e0f89ac054398294f0ab26af6.png",
+            "version": "ORANGE PLUS",
+            "theme": "Youth",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false,
+                    "version": "ORANGE PLUS"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": "12.5",
+                    "internalLevelValue": 12.5,
+                    "isSpecial": false,
+                    "version": "ORANGE PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "1/3の純情な感情",
+            "category": "POPS＆アニメ",
+            "title": "1/3の純情な感情",
+            "artist": "SIAM SHADE [covered by 湯毛]",
+            "bpm": 152,
+            "imageName": "59d6e4bc6052f1c398d9c50aced4c4e581679ce101baeea7ea9babeb73316363.png",
+            "version": "ORANGE PLUS",
+            "theme": "Youth",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false,
+                    "version": "ORANGE PLUS"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "ORANGE PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "毒占欲",
+            "category": "niconico＆ボーカロイド",
+            "title": "毒占欲",
+            "artist": "DECO*27",
+            "bpm": 117,
+            "imageName": "da7ddc4bc051b9aff57134c4acd62e92253ad139c56d3c6b388610eaef47c67f.png",
+            "version": "ORANGE",
+            "theme": "Youth",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false,
+                    "version": "ORANGE"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.6",
+                    "internalLevelValue": 13.6,
+                    "isSpecial": false,
+                    "version": "ORANGE"
+                }
+            ]
+        },
+        {
+            "songId": "おじゃま虫",
+            "category": "niconico＆ボーカロイド",
+            "title": "おじゃま虫",
+            "artist": "DECO*27",
+            "bpm": 143,
+            "imageName": "7da15ccc9f45c6bc5f8a5503659143e58c678d3f06829c8fa2e14018d401b3ab.png",
+            "version": "ORANGE PLUS",
+            "theme": "Youth",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false,
+                    "version": "ORANGE PLUS"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "ORANGE PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "はじめまして地球人さん",
+            "category": "niconico＆ボーカロイド",
+            "title": "はじめまして地球人さん",
+            "artist": "ピノキオピー",
+            "bpm": 175,
+            "imageName": "1ecfd9045a7dff32c12daf3d72f4dd8440b1d631c1fcfaf5dadd046c7036c33b.png",
+            "version": "ORANGE PLUS",
+            "theme": "Youth",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false,
+                    "version": "ORANGE PLUS"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.0",
+                    "internalLevelValue": 13,
+                    "isSpecial": false,
+                    "version": "ORANGE PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "ヒビカセ",
+            "category": "niconico＆ボーカロイド",
+            "title": "ヒビカセ",
+            "artist": "GigaReol",
+            "bpm": 140,
+            "imageName": "ada5f54797b26f08a3de25d17a38530bd93bd1a05ada7ac6198736c8c984e372.png",
+            "version": "MiLK PLUS",
+            "theme": "Youth",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false,
+                    "version": "MiLK PLUS"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.1",
+                    "internalLevelValue": 13.1,
+                    "isSpecial": false,
+                    "version": "MiLK PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "ファッとして桃源郷",
+            "category": "POPS＆アニメ",
+            "title": "ファッとして桃源郷",
+            "artist": "新庄かなえ(CV:三森すずこ)「てーきゅう」",
+            "bpm": 160,
+            "imageName": "2bb4572de6d12e415fe1eb226ff599f01148a42b9a11a0bc67aba7462f3c0eaf.png",
+            "version": "MURASAKi",
+            "theme": "Youth",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false,
+                    "version": "MURASAKi"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.3",
+                    "internalLevelValue": 13.3,
+                    "isSpecial": false,
+                    "version": "MURASAKi"
+                }
+            ]
+        },
+        {
+            "songId": "Paradisus-Paradoxum",
+            "category": "POPS＆アニメ",
+            "title": "Paradisus-Paradoxum",
+            "artist": "MYTH & ROID「Re：ゼロから始める異世界生活」",
+            "bpm": 201,
+            "imageName": "f3b658d66bdc7d80a66f8f80a6050eed345025ff5912aa80c20e3bd20c9e8ef5.png",
+            "version": "MURASAKi PLUS",
+            "theme": "Metropolis",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": "12.8",
+                    "internalLevelValue": 12.8,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false,
+                    "version": "MURASAKi PLUS"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.2",
+                    "internalLevelValue": 13.2,
+                    "isSpecial": false,
+                    "version": "MURASAKi PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "名探偵連続殺人事件",
+            "category": "niconico＆ボーカロイド",
+            "title": "名探偵連続殺人事件",
+            "artist": "てにをは",
+            "bpm": 140,
+            "imageName": "0646d0658a7ec5c7fe560fdf19d386475b71a31129af0cdd506b7f400b19599c.png",
+            "version": "MURASAKi PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false,
+                    "version": "MURASAKi PLUS"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "MURASAKi PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "あ・え・い・う・え・お・あお!!",
+            "category": "POPS＆アニメ",
+            "title": "あ・え・い・う・え・お・あお!!",
+            "artist": "劇団ひととせ「ひなこのーと」",
+            "bpm": 145,
+            "imageName": "a752596dc1a29e8b1db400a2e46680840b69d744c1c1162ec855beb3a327d67f.png",
+            "version": "MiLK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false,
+                    "version": "MiLK"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": "12.9",
+                    "internalLevelValue": 12.9,
+                    "isSpecial": false,
+                    "version": "MiLK"
+                }
+            ]
+        },
+        {
+            "songId": "This game",
+            "category": "POPS＆アニメ",
+            "title": "This game",
+            "artist": "鈴木このみ「ノーゲーム・ノーライフ」",
+            "bpm": 147,
+            "imageName": "1bd402fbbe7abb7cbc1df497d5f5e516a1834d4a65b18fcf2917ad9eb0cd8bf7.png",
+            "version": "MiLK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false,
+                    "version": "MiLK"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.3",
+                    "internalLevelValue": 13.3,
+                    "isSpecial": false,
+                    "version": "MiLK"
+                }
+            ]
+        },
+        {
+            "songId": "Los! Los! Los!",
+            "category": "POPS＆アニメ",
+            "title": "Los! Los! Los!",
+            "artist": "ターニャ・デグレチャフ(CV.悠木碧)「幼女戦記」",
+            "bpm": 240,
+            "imageName": "9ea8644506f34a8016fb30f21f1792f3e01702a6d57fb2687e121e4885a41d5a.png",
+            "version": "MiLK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false,
+                    "version": "MiLK"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": "12.6",
+                    "internalLevelValue": 12.6,
+                    "isSpecial": false,
+                    "version": "MiLK"
+                }
+            ]
+        },
+        {
+            "songId": "ガヴリールドロップキック",
+            "category": "POPS＆アニメ",
+            "title": "ガヴリールドロップキック",
+            "artist": "ガヴリール（富田美憂），ヴィーネ（大西沙織），サターニャ（大空直美），ラフィエル（花澤香菜）「ガヴリールドロップアウト」",
+            "bpm": 168,
+            "imageName": "adb8d47f179554035b059d29001dc52f2827cf9d21125645125339325693b90c.png",
+            "version": "MiLK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false,
+                    "version": "MiLK"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": "12.7",
+                    "internalLevelValue": 12.7,
+                    "isSpecial": false,
+                    "version": "MiLK"
+                }
+            ]
+        },
+        {
+            "songId": "アンチクロックワイズ",
+            "category": "POPS＆アニメ",
+            "title": "アンチクロックワイズ",
+            "artist": "After the Rain（そらる×まふまふ）",
+            "bpm": 186,
+            "imageName": "13291edc8d4a8fe904456a1e171eac0d3f1fc66dd2f2b5b5b555623db04e1e09.png",
+            "version": "MiLK PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false,
+                    "version": "MiLK PLUS"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false,
+                    "version": "MiLK PLUS"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "remaster",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.3",
+                    "internalLevelValue": 13.3,
+                    "isSpecial": false,
+                    "version": "MiLK PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "SHINY DAYS",
+            "category": "POPS＆アニメ",
+            "title": "SHINY DAYS",
+            "artist": "亜咲花",
+            "bpm": 110,
+            "imageName": "846c4d40997355f0c747e53cf280f07838f9af921473606c52529b3bb6e8bf1a.png",
+            "version": "FiNALE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false,
+                    "version": "FiNALE"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": "12.6",
+                    "internalLevelValue": 12.6,
+                    "isSpecial": false,
+                    "version": "FiNALE"
+                }
+            ]
+        },
+        {
+            "songId": "only my railgun",
+            "category": "POPS＆アニメ",
+            "title": "only my railgun",
+            "artist": "fripSide",
+            "bpm": 143,
+            "imageName": "4540b88cf6d1249c8341d34526b270bf4bd1ad74f5a92e581eea3de71401d2db.png",
+            "version": "FiNALE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false,
+                    "version": "FiNALE"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false,
+                    "version": "FiNALE"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "remaster",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": "12.6",
+                    "internalLevelValue": 12.6,
+                    "isSpecial": false,
+                    "version": "FiNALE"
+                }
+            ]
+        },
+        {
+            "songId": "お気に召すまま",
+            "category": "niconico＆ボーカロイド",
+            "title": "お気に召すまま",
+            "artist": "Eve",
+            "bpm": 143,
+            "imageName": "f0a9b3e8efce30e0ec6440c2db530d95b840ee30515b0c72067f409d13074981.png",
+            "version": "FiNALE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false,
+                    "version": "FiNALE"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false,
+                    "version": "FiNALE"
+                },
+                {
+                    "type": "std",
+                    "difficulty": "remaster",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.0",
+                    "internalLevelValue": 13,
+                    "isSpecial": false,
+                    "version": "FiNALE"
+                }
+            ]
+        },
+        {
+            "songId": "徒花ネクロマンシー",
+            "category": "POPS＆アニメ",
+            "title": "徒花ネクロマンシー",
+            "artist": "フランシュシュ",
+            "bpm": 172,
+            "imageName": "082a66b182549091a5a17a6378ac3f908c416bc6f6d93f1a6077a85dfe556ddc.png",
+            "version": "maimaiでらっくす",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす"
+                }
+            ]
+        },
+        {
+            "songId": "目覚めRETURNER",
+            "category": "POPS＆アニメ",
+            "title": "目覚めRETURNER",
+            "artist": "フランシュシュ",
+            "bpm": 145,
+            "imageName": "2d23e18b8ecec4bd4bf10b1a1100ce245739384ea2d5735c9c3021c811e00324.png",
+            "version": "maimaiでらっくす",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす"
+                }
+            ]
+        },
+        {
+            "songId": "青空のラプソディ",
+            "category": "POPS＆アニメ",
+            "title": "青空のラプソディ",
+            "artist": "fhána",
+            "bpm": 135,
+            "imageName": "523aa6c22e7039d8cd1dafb7d5b56577f018577aec3e4c708059195141aefd9c.png",
+            "version": "maimaiでらっくす PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": "12.5",
+                    "internalLevelValue": 12.5,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "ラブ・ドラマティック feat. 伊原六花",
+            "category": "POPS＆アニメ",
+            "title": "ラブ・ドラマティック feat. 伊原六花",
+            "artist": "鈴木雅之",
+            "bpm": 129,
+            "imageName": "799f4f4213ba2c2640ae0a41b74eab665d620ce047235e8c0cdb02d36d1b5bd6.png",
+            "version": "maimaiでらっくす PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "異世界かるてっと",
+            "category": "POPS＆アニメ",
+            "title": "異世界かるてっと",
+            "artist": "アインズ(日野聡)、カズマ(福島潤)、スバル(小林裕介)、ターニャ(悠木碧)",
+            "bpm": 148,
+            "imageName": "29484ff426e218eaca1dd55bcf46a0156565bacaa8511ed7d51cc5ab2b298e60.png",
+            "version": "maimaiでらっくす PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "いつかいい感じにアレしよう",
+            "category": "POPS＆アニメ",
+            "title": "いつかいい感じにアレしよう",
+            "artist": "カクとイムラ(CV：松本慶祐)",
+            "bpm": 144,
+            "imageName": "6571194c327dc15b4388fc8fe67102b0ef5d6bbdb1be0807d0e5473496b268fe.png",
+            "version": "maimaiでらっくす PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": "12.9",
+                    "internalLevelValue": 12.9,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "オトモダチフィルム",
+            "category": "POPS＆アニメ",
+            "title": "オトモダチフィルム",
+            "artist": "オーイシマサヨシ",
+            "bpm": 158,
+            "imageName": "ad61e1031f785f1861b7c9e985e793282e808d711db35b55faa2f3bc991ef6e7.png",
+            "version": "maimaiでらっくす PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "六厘歌",
+            "category": "POPS＆アニメ",
+            "title": "六厘歌",
+            "artist": "六厘舎",
+            "bpm": 140,
+            "imageName": "a78c4bd60c4e893093c6a576ed11865348d5d7ac1d4ca7ac0dbb9c952c42d362.png",
+            "version": "maimaiでらっくす PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "馬と鹿",
+            "category": "POPS＆アニメ",
+            "title": "馬と鹿",
+            "artist": "米津玄師",
+            "bpm": 91,
+            "imageName": "66f84deb504ffef5d3c3e91bcad289d71ad86ad3ae687e80eccc41302fbebb0f.png",
+            "version": "maimaiでらっくす PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "maimaiでらっくす PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "ノーポイッ!",
+            "category": "POPS＆アニメ",
+            "title": "ノーポイッ!",
+            "artist": "Petit Rabbit's",
+            "bpm": 158,
+            "imageName": "6b8af1be057649016007ed05386a846bfd4ac6f0a341512d03611cf327968a59.png",
+            "version": "Splash",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "Splash"
+                }
+            ]
+        },
+        {
+            "songId": "町かどタンジェント",
+            "category": "POPS＆アニメ",
+            "title": "町かどタンジェント",
+            "artist": "shami momo（吉田優子・千代田桃）／CV：小原好美・鬼頭明里",
+            "bpm": 165,
+            "imageName": "ee6e84711efc00ce528b570ad56b1fc4c024da33dda7d12a31eae5521a2a1cda.png",
+            "version": "Splash",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false,
+                    "version": "Splash"
+                }
+            ]
+        },
+        {
+            "songId": "紅蓮華",
+            "category": "POPS＆アニメ",
+            "title": "紅蓮華",
+            "artist": "LiSA",
+            "bpm": 135,
+            "imageName": "c7dbd8037378aa175cb703319f286100fe9a7602924a8947dd875ef8e28a0080.png",
+            "version": "Splash",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "remaster",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.0",
+                    "internalLevelValue": 13,
+                    "isSpecial": false,
+                    "version": "Splash"
+                }
+            ]
+        },
+        {
+            "songId": "MIRACLE RUSH",
+            "category": "POPS＆アニメ",
+            "title": "MIRACLE RUSH",
+            "artist": "StylipS",
+            "bpm": 168,
+            "imageName": "70f0870a00be2aa45f109b5371953380965ff76cffb43aeb94877aad94064ad7.png",
+            "version": "Splash",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": "12.0",
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "Splash"
+                }
+            ]
+        },
+        {
+            "songId": "Pretender",
+            "category": "POPS＆アニメ",
+            "title": "Pretender",
+            "artist": "Official髭男dism",
+            "bpm": 92,
+            "imageName": "3dbeef01382b6c489ef6a95344364e5edded06df93af8c226acd637aa700945e.png",
+            "version": "Splash",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false,
+                    "version": "Splash"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 12.6,
+                    "isSpecial": false,
+                    "version": "Splash"
+                }
+            ]
+        },
+        {
+            "songId": "インフェルノ",
+            "category": "POPS＆アニメ",
+            "title": "インフェルノ",
+            "artist": "Mrs. GREEN APPLE",
+            "bpm": 185,
+            "imageName": "97bab70fdeab7364a26c6589ca430dc636dab879b18376808788221420632d98.png",
+            "version": "Splash PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "remaster",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.0",
+                    "internalLevelValue": 13,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "冬のこもりうた",
+            "category": "POPS＆アニメ",
+            "title": "冬のこもりうた",
+            "artist": "原田知世",
+            "bpm": 118,
+            "imageName": "bc98e401f81480b0b0a16a29e87d750080b7accc2b275468fd6517125d31ff70.png",
+            "version": "Splash PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "7+",
+                    "levelValue": 7.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 7.6,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "remaster",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.0",
+                    "internalLevelValue": 13,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "God knows...",
+            "category": "POPS＆アニメ",
+            "title": "God knows...",
+            "artist": "涼宮ハルヒ（CV.平野 綾） TVアニメ「涼宮ハルヒの憂鬱」",
+            "bpm": 150,
+            "imageName": "208810e9ec2930ac0220cdb922d19ff46b4e1e5f5d700e9c13f285e874738a11.png",
+            "version": "Splash PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "remaster",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.0",
+                    "internalLevelValue": 13,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "秒針を噛む",
+            "category": "POPS＆アニメ",
+            "title": "秒針を噛む",
+            "artist": "ずっと真夜中でいいのに。",
+            "bpm": 130,
+            "imageName": "53d9ed764346266c0f44fa899d1a25e800b0ec7aaff30e0d4959f79fcb798e6b.png",
+            "version": "Splash PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "remaster",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": "12.7",
+                    "internalLevelValue": 12.7,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "乙女のルートはひとつじゃない！",
+            "category": "POPS＆アニメ",
+            "title": "乙女のルートはひとつじゃない！",
+            "artist": "angela",
+            "bpm": 192,
+            "imageName": "34f51d3f03af2f4db1f3af6b66d1b1c729aea2f49ee7d7a421386a98dbc98f55.png",
+            "version": "Splash PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "ビックカメラのテーマソング",
+            "category": "POPS＆アニメ",
+            "title": "ビックカメラのテーマソング",
+            "artist": "ビックカメラ",
+            "bpm": 160,
+            "imageName": "24aaaf7e688bcab024d69df3ea1483cd3eecc1dc6b5adf15b5306a615122be8e.png",
+            "version": "Splash PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": "12.7",
+                    "internalLevelValue": 12.7,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "Shiny Smily Story",
+            "category": "POPS＆アニメ",
+            "title": "Shiny Smily Story",
+            "artist": "hololive IDOL PROJECT",
+            "bpm": 168,
+            "imageName": "5f76a70a99ddb9d6787e12e71b0d02aad252bb0fa1ba601c6ba0382d7dad9d51.png",
+            "version": "Splash PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": "12.5",
+                    "internalLevelValue": 12.5,
+                    "isSpecial": false,
+                    "version": "Splash PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "夜に駆ける",
+            "category": "POPS＆アニメ",
+            "title": "夜に駆ける",
+            "artist": "YOASOBI",
+            "bpm": 130,
+            "imageName": "b2a0b6da4ca4dd4431756312658e0936f4c764ce5e7efb24f3f6bc9f64c0344a.png",
+            "version": "UNiVERSE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "remaster",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "12.8",
+                    "internalLevelValue": 12.8,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                }
+            ]
+        },
+        {
+            "songId": "うっせぇわ",
+            "category": "POPS＆アニメ",
+            "title": "うっせぇわ",
+            "artist": "Ado",
+            "bpm": 178,
+            "imageName": "0ca650a74183bf7d8b70927390de3751a962ff68b3aebf4122bf23ff7fdc0a62.png",
+            "version": "UNiVERSE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "remaster",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.2",
+                    "internalLevelValue": 13.2,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                }
+            ]
+        },
+        {
+            "songId": "Shooting Stars",
+            "category": "POPS＆アニメ",
+            "title": "Shooting Stars",
+            "artist": "クレシェンドブルー [最上静香 (CV.田所あずさ)、北上麗花 (CV.平山笑美)、北沢志保 (CV.雨宮 天)、野々原 茜 (CV.小笠原早紀)、箱崎星梨花 (CV.麻倉もも)]",
+            "bpm": 150,
+            "imageName": "27dff3421c84ed12eaa134c8e6a594a7871443f2875d5d19ae3d2105e0ee678c.png",
+            "version": "UNiVERSE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": "12.5",
+                    "internalLevelValue": 12.5,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                }
+            ]
+        },
+        {
+            "songId": "MOON NIGHTのせいにして",
+            "category": "POPS＆アニメ",
+            "title": "MOON NIGHTのせいにして",
+            "artist": "DRAMATIC STARS [天道 輝 (CV.仲村宗悟), 桜庭 薫 (CV.内田雄馬), 柏木 翼 (CV.八代 拓)]",
+            "bpm": 141,
+            "imageName": "05d949db77b564ac537cb460c5e8c94d6761b28595610987194d7763dd535391.png",
+            "version": "UNiVERSE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                }
+            ]
+        },
+        {
+            "songId": "泥の分際で私だけの大切を奪おうだなんて",
+            "category": "POPS＆アニメ",
+            "title": "泥の分際で私だけの大切を奪おうだなんて",
+            "artist": "ツユ",
+            "bpm": 225,
+            "imageName": "594e0a2b69ed1a799b48def7650deb0340d7a2db4f6e9705a533199e27a785af.png",
+            "version": "UNiVERSE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "13+",
+                    "levelValue": 13.6,
+                    "internalLevel": "13.7",
+                    "internalLevelValue": 13.7,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                }
+            ]
+        },
+        {
+            "songId": "VOLTAGE",
+            "category": "POPS＆アニメ",
+            "title": "VOLTAGE",
+            "artist": "Rain Drops",
+            "bpm": 194,
+            "imageName": "18301b12ae737bbc0dd8ae9452dec58f473017849f5f64d158307918f9ef5c9e.png",
+            "version": "UNiVERSE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.2",
+                    "internalLevelValue": 13.2,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                }
+            ]
+        },
+        {
+            "songId": "Seize The Day",
+            "category": "POPS＆アニメ",
+            "title": "Seize The Day",
+            "artist": "亜咲花",
+            "bpm": 122,
+            "imageName": "468d09b7b43350e638f09d00751ad1b6a0c58a33e18bd0af74988a12f458e78a.png",
+            "version": "UNiVERSE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                }
+            ]
+        },
+        {
+            "songId": "veil",
+            "category": "POPS＆アニメ",
+            "title": "veil",
+            "artist": "須田景凪",
+            "bpm": 150,
+            "imageName": "f0f8bcecc9ea868736346832c293db7bd7af4e45e09d5bb7f1224a9c784e2628.png",
+            "version": "UNiVERSE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": "12.7",
+                    "internalLevelValue": 12.7,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                }
+            ]
+        },
+        {
+            "songId": "さんさーら！",
+            "category": "ゲーム＆バラエティ",
+            "title": "さんさーら！",
+            "artist": "ARuFa",
+            "bpm": 140,
+            "imageName": "c715bdf82bdc997edf4b76336473b129ae18a422e5522c831d3c8681e3c5aba5.png",
+            "version": "UNiVERSE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 12.6,
+                    "isSpecial": false,
+                    "version": "UNiVERSE"
+                }
+            ]
+        },
+        {
+            "songId": "テリトリーバトル",
+            "category": "オンゲキ＆CHUNITHM",
+            "title": "テリトリーバトル",
+            "artist": "ツユ",
+            "bpm": 140,
+            "imageName": "5faa9b9ab9e41faff2b5dd9d0e72cbdce1b75feab983484b2b6df6d6b8edfe95.png",
+            "version": "UNiVERSE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": "10.0",
+                    "internalLevelValue": 10,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "13+",
+                    "levelValue": 13.6,
+                    "internalLevel": "13.6",
+                    "internalLevelValue": 13.6,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "愛のシュプリーム！",
+            "category": "POPS＆アニメ",
+            "title": "愛のシュプリーム！",
+            "artist": "fhána",
+            "bpm": 135,
+            "imageName": "8875333b89b4185f012b494bc6df160358464b8c27caddecdeff71847cbb43b5.png",
+            "version": "UNiVERSE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": "8.0",
+                    "internalLevelValue": 8,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": "12.6",
+                    "internalLevelValue": 12.6,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "くらべられっ子",
+            "category": "POPS＆アニメ",
+            "title": "くらべられっ子",
+            "artist": "ツユ",
+            "bpm": 194,
+            "imageName": "18d5d1e7a5bdaf9e7e27240941d5e6b0946cbd3791bdecdc2921fcbe56dee081.png",
+            "version": "UNiVERSE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": "9.8",
+                    "internalLevelValue": 9.8,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": "11.5",
+                    "internalLevelValue": 11.5,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "remaster",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.0",
+                    "internalLevelValue": 13,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "あの世行きのバスに乗ってさらば。",
+            "category": "POPS＆アニメ",
+            "title": "あの世行きのバスに乗ってさらば。",
+            "artist": "ツユ",
+            "bpm": 240,
+            "imageName": "17101da795b7c3b28ee6ec16fc6e814c3ee6970014c9ba3e7312400e74d0b51b.png",
+            "version": "UNiVERSE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": "11.0",
+                    "internalLevelValue": 11,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.2",
+                    "internalLevelValue": 13.2,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "うまぴょい伝説",
+            "category": "POPS＆アニメ",
+            "title": "うまぴょい伝説",
+            "artist": "スペシャルウィーク （CV.和氣あず未）、サイレンススズカ （CV.高野麻里佳）、トウカイテイオー （CV.Machico）",
+            "bpm": 170,
+            "imageName": "ecf121e744baa20ca011b31fc77f7c8d5d65162974345ca670c0e88e2dbad6bc.png",
+            "version": "UNiVERSE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": "8.7",
+                    "internalLevelValue": 8.7,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": "11.0",
+                    "internalLevelValue": 11,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "remaster",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.5",
+                    "internalLevelValue": 13.5,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "YONA YONA DANCE",
+            "category": "POPS＆アニメ",
+            "title": "YONA YONA DANCE",
+            "artist": "和田アキ子",
+            "bpm": 145,
+            "imageName": "beed9f22295ac1835fd14d516e7aae169fef697e6d124aacb09bfed0d768b587.png",
+            "version": "UNiVERSE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": "9.0",
+                    "internalLevelValue": 9,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": "12.5",
+                    "internalLevelValue": 12.5,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "Photon Melodies",
+            "category": "POPS＆アニメ",
+            "title": "Photon Melodies",
+            "artist": "Photon Maiden",
+            "bpm": 128,
+            "imageName": "ef00e2517aaf9ce9ae0640c146896ab30ca6aa0b1fe93acd2499ebde516af759.png",
+            "version": "UNiVERSE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": "13.2",
+                    "internalLevelValue": 13.2,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "吾輩よ猫であれ",
+            "category": "POPS＆アニメ",
+            "title": "吾輩よ猫であれ",
+            "artist": "Lyrical Lily",
+            "bpm": 136,
+            "imageName": "c4830cd3590e4b00dbf6d3e0851b1685547e5785c17e1ea8635104f198b0d5ac.png",
+            "version": "UNiVERSE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": "12.2",
+                    "internalLevelValue": 12.2,
+                    "isSpecial": false,
+                    "version": "UNiVERSE PLUS"
+                }
+            ]
+        },
+        {
+            "songId": "PON PON PON",
+            "category": "POPS＆アニメ",
+            "title": "PON PON PON",
+            "artist": "きゃりーぱみゅぱみゅ［PV］",
+            "bpm": 128,
+            "imageName": "6a4489d7d298b9b6c5bd54f4e13d6118f293e2f900da979c3750ecd549b62665.png",
+            "version": "maimai",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Choo Choo TRAIN",
+            "category": "POPS＆アニメ",
+            "title": "Choo Choo TRAIN",
+            "artist": "EXILE［PV］",
+            "bpm": 115,
+            "imageName": "afc15c0732441c1b0903777a157db2698b32914a43b9a69f5f3496b1caf93e90.png",
+            "version": "GreeN",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "VICTORY",
+            "category": "POPS＆アニメ",
+            "title": "VICTORY",
+            "artist": "EXILE",
+            "bpm": 130,
+            "imageName": "2162e8236ac166e0e092b96f4495aa6f1f1fdc56c0ae82ede3e7912f312d2555.png",
+            "version": "GreeN PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ヘビーローテーション",
+            "category": "POPS＆アニメ",
+            "title": "ヘビーローテーション",
+            "artist": "AKB48［PV］",
+            "bpm": 178,
+            "imageName": "99899cf0a1fbc644e9a4a208b178802f0257c869a3be763b8b847e0826ba7d28.png",
+            "version": "maimai",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Everyday、カチューシャ",
+            "category": "POPS＆アニメ",
+            "title": "Everyday、カチューシャ",
+            "artist": "AKB48［PV］",
+            "bpm": 172,
+            "imageName": "24cae3519a8ede77d077c1ecbdb402eac264fee6deae8a5f0b32d476303d40d0.png",
+            "version": "maimai",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Chu Chu",
+            "category": "POPS＆アニメ",
+            "title": "Chu Chu",
+            "artist": "moumoon［PV］",
+            "bpm": 98,
+            "imageName": "a66fe32dc723bea748969aee9d69835dfaaa83daf3b443d7625241df0010425b.png",
+            "version": "maimai",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "New World",
+            "category": "POPS＆アニメ",
+            "title": "New World",
+            "artist": "w-inds.［PV］",
+            "bpm": 127,
+            "imageName": "052e2f90b49e27d2ad1ca3c8e39fed8fbf33d7207a5fad4f93b98d47c85edb50.png",
+            "version": "maimai",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "CAN'T GET BACK",
+            "category": "POPS＆アニメ",
+            "title": "CAN'T GET BACK",
+            "artist": "w-inds.［PV］",
+            "bpm": 140,
+            "imageName": "a99c7075b0d50aa1597b2836178e3b0710630502e9f163841fbfc10e6be7b780.png",
+            "version": "maimai",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "愛を止めないで",
+            "category": "POPS＆アニメ",
+            "title": "愛を止めないで",
+            "artist": "倖田來未［PV］",
+            "bpm": 83,
+            "imageName": "4831c63f89a1f76bbb2fbdf925dce56f4831bd7bb06fb408150c6a315ec99e2b.png",
+            "version": "maimai",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "LOVE ＆ JOY",
+            "category": "POPS＆アニメ",
+            "title": "LOVE ＆ JOY",
+            "artist": "木村 由姫［cover］",
+            "bpm": 173,
+            "imageName": "8b5f6a1971b8351c043074e51865297c55aad6320778890808079e8cd646f872.png",
+            "version": "maimai",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "じょいふる",
+            "category": "POPS＆アニメ",
+            "title": "じょいふる",
+            "artist": "いきものがかり［cover］",
+            "bpm": 159,
+            "imageName": "4588ebf67b9d728991f9afab9101d4c3b3d7d688be30a330305e487bada8d76f.png",
+            "version": "maimai",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "アイデンティティ",
+            "category": "POPS＆アニメ",
+            "title": "アイデンティティ",
+            "artist": "サカナクション［cover］",
+            "bpm": 140,
+            "imageName": "5228029fa7b89dd4e595389d3fe8a6e6d7c6dd6037f9890087727bbeddb930f1.png",
+            "version": "maimai",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Garden",
+            "category": "POPS＆アニメ",
+            "title": "Garden",
+            "artist": "May J.［cover］",
+            "bpm": 99,
+            "imageName": "6067d18d9b5d647eb870f37f388b7cd3ccf3a3deb0f19176561d8012464fbc69.png",
+            "version": "maimai",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "つけまつける",
+            "category": "POPS＆アニメ",
+            "title": "つけまつける",
+            "artist": "きゃりーぱみゅぱみゅ［PV］",
+            "bpm": 145,
+            "imageName": "8cafaedc167f21a3d2e633584fc227d9f0bc2e2992d9ab8aba4e088ac1764cdc.png",
+            "version": "maimai PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "CANDY CANDY",
+            "category": "POPS＆アニメ",
+            "title": "CANDY CANDY",
+            "artist": "きゃりーぱみゅぱみゅ［PV］",
+            "bpm": 130,
+            "imageName": "8e91ef2751d784fb4aacc8be91fa9dc5839a37f1afc2079c89763557bec2fde3.png",
+            "version": "maimai PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "SPELL MAGIC",
+            "category": "POPS＆アニメ",
+            "title": "SPELL MAGIC",
+            "artist": "Acid Black Cherry［PV］",
+            "bpm": 180,
+            "imageName": "68fbf121cbfb92aa3920f2b14a610bfbd5fe23ebd9460cc6d99ec3c9e0728f3b.png",
+            "version": "maimai PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ニブンノイチ",
+            "category": "POPS＆アニメ",
+            "title": "ニブンノイチ",
+            "artist": "BACK-ON［cover］",
+            "bpm": 125,
+            "imageName": "412a8857cb93da36f48915af6508b2be59c5f91f359db83cb8365beb6e4e2b8a.png",
+            "version": "ORANGE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7+",
+                    "levelValue": 7.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 7.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "サラバ、愛しき悲しみたちよ",
+            "category": "POPS＆アニメ",
+            "title": "サラバ、愛しき悲しみたちよ",
+            "artist": "ももいろクローバーZ［PV］",
+            "bpm": 168,
+            "imageName": "ea7dcd6045ec8af5446fdd2771dd9822771394689a260ac11121396155fcdb3c.png",
+            "version": "GreeN",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "女々しくて",
+            "category": "POPS＆アニメ",
+            "title": "女々しくて",
+            "artist": "ゴールデンボンバー［PV］",
+            "bpm": 143,
+            "imageName": "f15d1a105410fb45100142d89dbb07288eed6f2d8860dc28e2a4f2b36d92d3fb.png",
+            "version": "GreeN",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "LOVEドッきゅん♥",
+            "category": "POPS＆アニメ",
+            "title": "LOVEドッきゅん♥",
+            "artist": "club prince［cover］",
+            "bpm": 149,
+            "imageName": "77c4447ac88278611f80eb57972ce63295f73f93c2bfff5c17a4212749a59cbd.png",
+            "version": "GreeN",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "GO!!!",
+            "category": "POPS＆アニメ",
+            "title": "GO!!!",
+            "artist": "FLOW「NARUTO」［cover］",
+            "bpm": 134,
+            "imageName": "0226f237a5ceb33a96e34119a12779925b0e78e94041744cd7a05bbe3688f22d.png",
+            "version": "GreeN",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "カルマ",
+            "category": "POPS＆アニメ",
+            "title": "カルマ",
+            "artist": "BUMP OF CHICKEN［cover］",
+            "bpm": 195,
+            "imageName": "5483ca284c350bf63865b80206f6b4d561d55ba7e049bb44b1287fbb0512f2af.png",
+            "version": "GreeN",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "リライト",
+            "category": "POPS＆アニメ",
+            "title": "リライト",
+            "artist": "ASIAN KANG-FU GENERATION［cover］",
+            "bpm": 179,
+            "imageName": "31e506fe4b3489feb28d548c3d60e242979d8e6540baf69070a3a298abde914e.png",
+            "version": "GreeN",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "READY STEADY GO",
+            "category": "POPS＆アニメ",
+            "title": "READY STEADY GO",
+            "artist": "L'Arc~en~Ciel［cover］",
+            "bpm": 144,
+            "imageName": "a2bbbbbb2044e1cde1180c267f55e5d22dff1bffb2b0ed3bb3801fb422be7357.png",
+            "version": "GreeN",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Butter-Fly",
+            "category": "POPS＆アニメ",
+            "title": "Butter-Fly",
+            "artist": "和田光司［cover］",
+            "bpm": 165,
+            "imageName": "baa1fe6f11a7a17eef3246a537f95a47be223556fa0132a3cb1d801f10381151.png",
+            "version": "GreeN",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "創聖のアクエリオン",
+            "category": "POPS＆アニメ",
+            "title": "創聖のアクエリオン",
+            "artist": "AKINO［cover］",
+            "bpm": 151,
+            "imageName": "6c71ebec5d6f36446496ceab3dab0f06aeb941c95774f5c53fdfd1aee488d470.png",
+            "version": "GreeN",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "残酷な天使のテーゼ",
+            "category": "POPS＆アニメ",
+            "title": "残酷な天使のテーゼ",
+            "artist": "高橋洋子［cover］",
+            "bpm": 128,
+            "imageName": "a9a9cdc4a1fccfa54d6af0be5324dfab29c7f9aaaebd6c7dd8167df45abf30c5.png",
+            "version": "GreeN",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "galaxias!",
+            "category": "niconico＆ボーカロイド",
+            "title": "galaxias!",
+            "artist": "galaxias!［PV］",
+            "bpm": 123,
+            "imageName": "c245f218e35b4ab929234828923682bf4d73800c1a24ee2be01169485cf5344a.png",
+            "version": "GreeN",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Tachyon",
+            "category": "POPS＆アニメ",
+            "title": "Tachyon",
+            "artist": "mamenoi (MANYO＆やなぎなぎ)",
+            "bpm": 176,
+            "imageName": "c286dde93b460d9cfc5b9e8f82c622daedf066d9ef05c41ca704d4bc20b96c1d.png",
+            "version": "GreeN PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "リクライム",
+            "category": "POPS＆アニメ",
+            "title": "リクライム",
+            "artist": "ROOKiEZ is PUNK’D 「弱虫ペダル」[アニメPV]",
+            "bpm": 188,
+            "imageName": "5c841373fbc4ea17f2a5850f3cc60a4dc1dad9a15c426979495a04ada7fe9792.png",
+            "version": "GreeN PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "恋のヒメヒメぺったんこ",
+            "category": "POPS＆アニメ",
+            "title": "恋のヒメヒメぺったんこ",
+            "artist": "姫野湖鳥（CV 田村ゆかり）「弱虫ペダル」",
+            "bpm": 178,
+            "imageName": "627cf4d75d4d1601272f2a126daec5d782e5306a5f74bc810a385701a22a8e8b.png",
+            "version": "GreeN PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7+",
+                    "levelValue": 7.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 7.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "サブリナ",
+            "category": "POPS＆アニメ",
+            "title": "サブリナ",
+            "artist": "家入レオ［PV］",
+            "bpm": 136,
+            "imageName": "43df68d4da7fa5f8866f589cf6a8821fe3fa0d8bbcd7652b7dc9e0bd6a937f98.png",
+            "version": "maimai PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "RPG",
+            "category": "POPS＆アニメ",
+            "title": "RPG",
+            "artist": "SEKAI NO OWARI",
+            "bpm": 135,
+            "imageName": "8028a8fbdfba8fcd80db2304f124f5fbc6efd645faa1cda38dffc1768cb5cac9.png",
+            "version": "GreeN PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7+",
+                    "levelValue": 7.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 7.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "GO MY WAY!!",
+            "category": "ゲーム＆バラエティ",
+            "title": "GO MY WAY!!",
+            "artist": "ナムコエンジェル「アイドルマスター」",
+            "bpm": 180,
+            "imageName": "8901f1235693ab75e9508904143ab6a404c16e3e705c20d4ebc7126c82484937.png",
+            "version": "GreeN PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "THE IDOLM@STER 2nd-mix",
+            "category": "ゲーム＆バラエティ",
+            "title": "THE IDOLM@STER 2nd-mix",
+            "artist": "ナムコエンジェル「アイドルマスター」",
+            "bpm": 168,
+            "imageName": "a0530a5906f846613eb2d40b6b3786c22c5739d6d6c1d6b8c207eec7d7ca11d7.png",
+            "version": "GreeN PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "The world is all one !!",
+            "category": "ゲーム＆バラエティ",
+            "title": "The world is all one !!",
+            "artist": "ナムコエンジェル「アイドルマスター」",
+            "bpm": 167,
+            "imageName": "736ad5fd57949f8ce59d7896250ca997c17745105a6ffe5a40b2beabb4f71784.png",
+            "version": "GreeN PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7+",
+                    "levelValue": 7.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 7.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Get Off of My Way",
+            "category": "POPS＆アニメ",
+            "title": "Get Off of My Way",
+            "artist": "MAN WITH A MISSION［PV］",
+            "bpm": 135,
+            "imageName": "ecf349ef6249e7b0da4bf37cfad29c20ce5288097f59b6b372722c8a0e70615c.png",
+            "version": "maimai PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "おいでよ！妖精の森",
+            "category": "POPS＆アニメ",
+            "title": "おいでよ！妖精の森",
+            "artist": "「gdgd妖精s」",
+            "bpm": 220,
+            "imageName": "91283dcae02b87b356a90b56cd77c147014d290c995c6a1f16395945f4229efe.png",
+            "version": "ORANGE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "みかんのうた",
+            "category": "POPS＆アニメ",
+            "title": "みかんのうた",
+            "artist": "SEX MACHINEGUNS［cover］",
+            "bpm": 288,
+            "imageName": "b47b85320c136011ef53157f9b8e90bbe77d4a6530ffb21ce28150b827094bb7.png",
+            "version": "ORANGE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ファミリーパーティー",
+            "category": "POPS＆アニメ",
+            "title": "ファミリーパーティー",
+            "artist": "きゃりーぱみゅぱみゅ［PV］",
+            "bpm": 142,
+            "imageName": "e72bbfe0ed3fa30bd70189787cea4f005a68682cc7612ec8fee62a43b288f2d9.png",
+            "version": "ORANGE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "恋愛サーキュレーション",
+            "category": "POPS＆アニメ",
+            "title": "恋愛サーキュレーション",
+            "artist": "「化物語」［cover］",
+            "bpm": 120,
+            "imageName": "faccea64b481927b0054b7cbb32cc5833aece4dd583be21394ce78a47ad0a9a2.png",
+            "version": "maimai",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7+",
+                    "levelValue": 7.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 7.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Can Do",
+            "category": "POPS＆アニメ",
+            "title": "Can Do",
+            "artist": "GRANRODEO[PV]",
+            "bpm": 200,
+            "imageName": "07efedcb40d494ac2678b09bbc4cc4ac7269630feb58157fb1f549871084ce21.png",
+            "version": "ORANGE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "The Other self",
+            "category": "POPS＆アニメ",
+            "title": "The Other self",
+            "artist": "GRANRODEO[PV]",
+            "bpm": 150,
+            "imageName": "b46c67495a1bc7ce34e79c9e44f568abf0330c5b39866c6c7fdf6be68d5c4f75.png",
+            "version": "ORANGE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "カノン",
+            "category": "POPS＆アニメ",
+            "title": "カノン",
+            "artist": "宮野真守[PV]",
+            "bpm": 208,
+            "imageName": "17af36e875f826b6ed3324db841a59b28635fe427e1470d973d8740c46a9edb5.png",
+            "version": "ORANGE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "オルフェ",
+            "category": "POPS＆アニメ",
+            "title": "オルフェ",
+            "artist": "宮野真守[PV]",
+            "bpm": 184,
+            "imageName": "daca194ccb993634e9ca138343bd8aade456ff9927ffb3b951e08522bbe17b5c.png",
+            "version": "ORANGE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ヘタリアン☆ジェット",
+            "category": "POPS＆アニメ",
+            "title": "ヘタリアン☆ジェット",
+            "artist": "イタリア (CV.浪川大輔)「ヘタリア The World Twinkle」",
+            "bpm": 132,
+            "imageName": "41de1791235ef0205cef10d642b9cd195bbe0c985f5b49a745061fa12650c3cc.png",
+            "version": "PiNK PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ココロオドル",
+            "category": "POPS＆アニメ",
+            "title": "ココロオドル",
+            "artist": "nobodyknows+［cover］",
+            "bpm": 226,
+            "imageName": "0997c6bd146923bd4a0422d506b22f0a191a4ecf53a44c23f202a468494ace92.png",
+            "version": "ORANGE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "naraku within",
+            "category": "POPS＆アニメ",
+            "title": "naraku within",
+            "artist": "藤澤健至（Team-MAX）「ニンジャスレイヤー」",
+            "bpm": 130,
+            "imageName": "32699e67c9934f2d7ec44e3c35f736646dd77286bc4367c654672b9aac5396e9.png",
+            "version": "ORANGE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ほとんど違法行為",
+            "category": "POPS＆アニメ",
+            "title": "ほとんど違法行為",
+            "artist": "ネコネコカワイイ「ニンジャスレイヤー」",
+            "bpm": 128,
+            "imageName": "12ca696704114f46b0e556a3eeff66dc83410fd0dbfe55478d0880814f5695cb.png",
+            "version": "ORANGE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "シリウス",
+            "category": "POPS＆アニメ",
+            "title": "シリウス",
+            "artist": "藍井エイル「キルラキル」[アニメPV]",
+            "bpm": 176,
+            "imageName": "29d3603cd030b111e21a648ca2b1755b72188841a82a3780e5f5ad7970db0ee3.png",
+            "version": "ORANGE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "青春はNon-Stop！",
+            "category": "POPS＆アニメ",
+            "title": "青春はNon-Stop！",
+            "artist": "プラズマジカ「SHOW BY ROCK!!」",
+            "bpm": 172,
+            "imageName": "0469e9bc070bd80d31ee358e08eee9dc159eced9886d7dd863dd8146c233d49b.png",
+            "version": "PiNK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Falling Roses",
+            "category": "POPS＆アニメ",
+            "title": "Falling Roses",
+            "artist": "シンガンクリムゾンズ「SHOW BY ROCK!!」",
+            "bpm": 200,
+            "imageName": "1ca4d73a2416b4c2dde2b8a4f81cd40ce1fd081fdf3883fa9d9b4cb766ca0d1d.png",
+            "version": "PiNK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ようかい体操第一",
+            "category": "POPS＆アニメ",
+            "title": "ようかい体操第一",
+            "artist": "Dream5「妖怪ウォッチ」",
+            "bpm": 125,
+            "imageName": "e0bf3fe7b34029502fcb5daefca0e4d72a4dbb6e9ade114804d849aeb0617e2a.png",
+            "version": "PiNK PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ゲラゲラポーのうた",
+            "category": "POPS＆アニメ",
+            "title": "ゲラゲラポーのうた",
+            "artist": "キング・クリームソーダ「妖怪ウォッチ」",
+            "bpm": 120,
+            "imageName": "1f2081a48f767e69ad1b6878bba0915cb542ca3163e5a12e532a373783e749ad.png",
+            "version": "PiNK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Scatman (Ski Ba Bop Ba Dop Bop)",
+            "category": "POPS＆アニメ",
+            "title": "Scatman (Ski Ba Bop Ba Dop Bop)",
+            "artist": "Scatman John",
+            "bpm": 136,
+            "imageName": "050e68d0e471e7ddf06b992428a56513e60648f3e00a3ad0aa48c7948c1c643c.png",
+            "version": "PiNK PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "でんでんぱっしょん",
+            "category": "POPS＆アニメ",
+            "title": "でんでんぱっしょん",
+            "artist": "でんぱ組.inc",
+            "bpm": 186,
+            "imageName": "1c2bb9adffb4fd5ce305ea01399962803adaccac949a0cd5d1152f2bf5f10eba.png",
+            "version": "PiNK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Dragon Night",
+            "category": "POPS＆アニメ",
+            "title": "Dragon Night",
+            "artist": "SEKAI NO OWARI",
+            "bpm": 124,
+            "imageName": "4e70c1292ef54fca06293cee764b465c7924ea211c98b775eee603e710792c3b.png",
+            "version": "PiNK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Luminize",
+            "category": "POPS＆アニメ",
+            "title": "Luminize",
+            "artist": "fripSide「フューチャーカード バディファイト ハンドレッド」",
+            "bpm": 140,
+            "imageName": "1f01b6e9996e0c03fb24548ed03fbad3768cf01d7654e9da7b74adb027008d97.png",
+            "version": "PiNK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "秘密の扉から会いにきて",
+            "category": "POPS＆アニメ",
+            "title": "秘密の扉から会いにきて",
+            "artist": "田村ゆかり「のうりん」",
+            "bpm": 184,
+            "imageName": "d11f762012ecf84b9b2f83cf4b899f39338362ab0c1a648d4a2a054f8092ec83.png",
+            "version": "PiNK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Touch Tap Baby",
+            "category": "POPS＆アニメ",
+            "title": "Touch Tap Baby",
+            "artist": "ハッカドール",
+            "bpm": 162,
+            "imageName": "08e844d6e8db2ce0910298ad20bdff1e6623be4f810b1c85176b366b84254fac.png",
+            "version": "PiNK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7+",
+                    "levelValue": 7.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 7.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "イチズレシピ",
+            "category": "POPS＆アニメ",
+            "title": "イチズレシピ",
+            "artist": "アイドルカレッジ「俺がお嬢様学校に「庶民サンプル」としてゲッツされた件」",
+            "bpm": 170,
+            "imageName": "840e9f6e7db510d1c884263af90bd8d8bb59afe9a90ba3c79dc993c0e232a5bc.png",
+            "version": "PiNK PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ふ・れ・ん・ど・し・た・い",
+            "category": "POPS＆アニメ",
+            "title": "ふ・れ・ん・ど・し・た・い",
+            "artist": "学園生活部「がっこうぐらし！」",
+            "bpm": 148,
+            "imageName": "ff17f4c123b4407923cd73ae323baf787da3110fe8263b260257d200945b5c48.png",
+            "version": "PiNK PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "remaster",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "未来(ソラ)の歌",
+            "category": "POPS＆アニメ",
+            "title": "未来(ソラ)の歌",
+            "artist": "Questy「ポッピンQ」",
+            "bpm": 153,
+            "imageName": "fbe6f6108d7c6984bb4abfc10c4233d979bf833e7f9fef8736f5283827eeed65.png",
+            "version": "MURASAKi PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ひみつをちょーだい",
+            "category": "niconico＆ボーカロイド",
+            "title": "ひみつをちょーだい",
+            "artist": "アルスマグナ",
+            "bpm": 160,
+            "imageName": "edacaf22f4f2b878e1451eaee8747c918ce3fe38578408b3de44293424270965.png",
+            "version": "PiNK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7+",
+                    "levelValue": 7.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 7.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "夏にキスしていいですか？",
+            "category": "niconico＆ボーカロイド",
+            "title": "夏にキスしていいですか？",
+            "artist": "アルスマグナ",
+            "bpm": 160,
+            "imageName": "eb0c54b3d2a26bf5fb82001a489bc605fac8bab5b99c085278c2db1453be67a3.png",
+            "version": "PiNK PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7+",
+                    "levelValue": 7.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 7.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "PERFECT HUMAN",
+            "category": "POPS＆アニメ",
+            "title": "PERFECT HUMAN",
+            "artist": "RADIO FISH",
+            "bpm": 128,
+            "imageName": "35aee2223a46174858a31bc4acb6444ba6d1b03d0acde7fadb64e246c5ad928e.png",
+            "version": "MURASAKi",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "SUSHI食べたい feat.ソイソース",
+            "category": "POPS＆アニメ",
+            "title": "SUSHI食べたい feat.ソイソース",
+            "artist": "ORANGE RANGE",
+            "bpm": 135,
+            "imageName": "a2fcdbd7be3416cbefddfec907405abcb131d4ea97782a8c0785ff2a2b934c85.png",
+            "version": "MURASAKi",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "7 Girls War",
+            "category": "POPS＆アニメ",
+            "title": "7 Girls War",
+            "artist": "Wake Up, Girls！",
+            "bpm": 180,
+            "imageName": "0325339789a0168d9e50ae830a883685bcf7dbc712e2b870a0b0539536d22394.png",
+            "version": "MURASAKi",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Jumping!!",
+            "category": "POPS＆アニメ",
+            "title": "Jumping!!",
+            "artist": "Rhodanthe*",
+            "bpm": 175,
+            "imageName": "3ce4bb0f522925acb974fc69a6ffbf696fe72ad3a25e2a27d4475ab68b54d998.png",
+            "version": "MURASAKi",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8",
+                    "levelValue": 8,
+                    "internalLevel": null,
+                    "internalLevelValue": 8,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ゆりゆららららゆるゆり大事件",
+            "category": "POPS＆アニメ",
+            "title": "ゆりゆららららゆるゆり大事件",
+            "artist": "七森中☆ごらく部「ゆるゆり」",
+            "bpm": 175,
+            "imageName": "4d36bbf2625402598871193af79581a13b026a769d5e786e402f181bf6e2d672.png",
+            "version": "MURASAKi",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "いぇす！ゆゆゆ☆ゆるゆり♪♪",
+            "category": "POPS＆アニメ",
+            "title": "いぇす！ゆゆゆ☆ゆるゆり♪♪",
+            "artist": "七森中☆ごらく部「ゆるゆり♪♪」",
+            "bpm": 182,
+            "imageName": "b0513d487e272e2875f84266ef215e6499011fcfd4825541e3b1179b49c907d2.png",
+            "version": "MURASAKi",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ちょちょちょ！ゆるゆり☆かぷりっちょ！！！",
+            "category": "POPS＆アニメ",
+            "title": "ちょちょちょ！ゆるゆり☆かぷりっちょ！！！",
+            "artist": "七森中☆ごらく部「ゆるゆり さん☆ハイ！」",
+            "bpm": 190,
+            "imageName": "3790e0b1443055da659bf7225b548de38accf569c3628d825b93566ba0f715f0.png",
+            "version": "MURASAKi",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "H-A-J-I-M-A-R-I-U-T-A-!!",
+            "category": "ゲーム＆バラエティ",
+            "title": "H-A-J-I-M-A-R-I-U-T-A-!!",
+            "artist": "777☆SISTERS",
+            "bpm": 140,
+            "imageName": "3be72487792ba508642b30300d47dabaa732ebb94b7512ae8809e9e4dad388f4.png",
+            "version": "MURASAKi",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Star☆Glitter",
+            "category": "ゲーム＆バラエティ",
+            "title": "Star☆Glitter",
+            "artist": "セブンスシスターズ",
+            "bpm": 171,
+            "imageName": "8f25304981c1da882ce6fba709b2c95f10780050e90914679a6c4d83caa1c058.png",
+            "version": "MURASAKi",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "紅蓮の弓矢",
+            "category": "POPS＆アニメ",
+            "title": "紅蓮の弓矢",
+            "artist": "Linked Horizon 「進撃の巨人」[アニメPV]",
+            "bpm": 180,
+            "imageName": "36fca6fc47309a005c4a4cc81928695b95c32f0e491355caebb7e3e32d33d4af.png",
+            "version": "GreeN PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "SAKURAスキップ",
+            "category": "POPS＆アニメ",
+            "title": "SAKURAスキップ",
+            "artist": "fourfolium 「NEW GAME!」",
+            "bpm": 165,
+            "imageName": "42a438ff59c50f6f6830dd6c8df5c4846e0dfe0a4635be0c30e85fbfe7f0f328.png",
+            "version": "MURASAKi PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7+",
+                    "levelValue": 7.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 7.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Now Loading!!!!",
+            "category": "POPS＆アニメ",
+            "title": "Now Loading!!!!",
+            "artist": "fourfolium 「NEW GAME!」",
+            "bpm": 193,
+            "imageName": "3be2a96c45a9774adba0c50e924ff7fbc1fc913bfa5e1239e9c110f7df4280ff.png",
+            "version": "MURASAKi PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ホシトハナ",
+            "category": "POPS＆アニメ",
+            "title": "ホシトハナ",
+            "artist": "讃州中学勇者部 「結城友奈は勇者である」",
+            "bpm": 158,
+            "imageName": "eeae835646dafffa0cef076faaaf75d5dba14eb99818682b4378cff0a1a60de3.png",
+            "version": "MURASAKi PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Stand Up!!!!",
+            "category": "POPS＆アニメ",
+            "title": "Stand Up!!!!",
+            "artist": "鈴木結愛(CV:西 明日香)/佐藤陽菜(CV:明坂聡美)/高橋 葵(CV:荻野可鈴)/田中心春(CV:大橋彩香)/「てさぐれ！部活もの」 [アニメPV]",
+            "bpm": 185,
+            "imageName": "3f3f70e6f6e775c124be78d60ab9e37b627cb9dd6fd4b7bc745a2f4c90a0c93a.png",
+            "version": "ORANGE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "ヤバい○○",
+            "category": "POPS＆アニメ",
+            "title": "ヤバい○○",
+            "artist": "上坂すみれ",
+            "bpm": 133,
+            "imageName": "876bce52bf6b46a2a3ce058d0acd752e7c4fdadc83ca4fa7b762b2f7c573c76e.png",
+            "version": "MiLK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Pursuing My True Self",
+            "category": "ゲーム＆バラエティ",
+            "title": "Pursuing My True Self",
+            "artist": "目黒 將司",
+            "bpm": 119,
+            "imageName": "769d4060428e8d1d632c8b4dc242d83d554f8fca4e920e368dc242b6e15276a0.png",
+            "version": "ORANGE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Signs Of Love (“Never More” ver.)",
+            "category": "ゲーム＆バラエティ",
+            "title": "Signs Of Love (“Never More” ver.)",
+            "artist": "目黒 将司",
+            "bpm": 109,
+            "imageName": "ff10b8dbb7bc1ae587fc4c280abf5983d1cb5d59b7e85d4addbd4b53b0eecf9e.png",
+            "version": "ORANGE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 12.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "specialist (“Never More” ver.)",
+            "category": "ゲーム＆バラエティ",
+            "title": "specialist (“Never More” ver.)",
+            "artist": "目黒 將司",
+            "bpm": 128,
+            "imageName": "ff38ab7354a7161f56c5670d5085fc851273ede8c2b4b4e6be15cccd3e5f3657.png",
+            "version": "ORANGE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Time To Make History (AKIRA YAMAOKA Remix)",
+            "category": "ゲーム＆バラエティ",
+            "title": "Time To Make History (AKIRA YAMAOKA Remix)",
+            "artist": "目黒 將司 Remixed by 山岡 晃",
+            "bpm": 190,
+            "imageName": "b9d6987414c4ba0d1c2d89f32aaf6353091bcfa5c1368710668e701b53b16368.png",
+            "version": "ORANGE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": null,
+                    "internalLevelValue": 13,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "CALL HEAVEN!!",
+            "category": "ゲーム＆バラエティ",
+            "title": "CALL HEAVEN!!",
+            "artist": "夢色キャスト",
+            "bpm": 123,
+            "imageName": "8bcf6e61a1e437503f18dbba444f8d2dc61cbcbb2113106371b863b516a5d9cf.png",
+            "version": "MURASAKi PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Sunshine world tour",
+            "category": "ゲーム＆バラエティ",
+            "title": "Sunshine world tour",
+            "artist": "夢色キャスト",
+            "bpm": 140,
+            "imageName": "5bc7230fc5f71ec883fc881e88c6342f5be3a67f8bb7acd948ea313f3679c59d.png",
+            "version": "MURASAKi PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "POP TEAM EPIC",
+            "category": "POPS＆アニメ",
+            "title": "POP TEAM EPIC",
+            "artist": "上坂すみれ「ポプテピピック」",
+            "bpm": 142,
+            "imageName": "0b8ac38b37eeae60118d1d0eb600816d9d15c4bea88b660567c511f3cdd4c1e5.png",
+            "version": "MiLK PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 12.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "remaster",
+                    "level": "13+",
+                    "levelValue": 13.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 13.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "全力☆Summer!",
+            "category": "POPS＆アニメ",
+            "title": "全力☆Summer!",
+            "artist": "angela「アホガール」",
+            "bpm": 158,
+            "imageName": "41b168c44066f1b33535d12d72800530fe5dcffc58db81d85792894e111c4152.png",
+            "version": "MiLK PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "remaster",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Arrival of Tears",
+            "category": "POPS＆アニメ",
+            "title": "Arrival of Tears",
+            "artist": "彩音",
+            "bpm": 200,
+            "imageName": "7f44be998599d737bf73033c9c00138e99bb78fdfef9606ba8fc75dce82be750.png",
+            "version": "MiLK PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 12.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "にめんせい☆ウラオモテライフ！",
+            "category": "POPS＆アニメ",
+            "title": "にめんせい☆ウラオモテライフ！",
+            "artist": "土間うまる（田中あいみ）「乾物妹！うまるちゃんR」",
+            "bpm": 170,
+            "imageName": "16012683b7c4758c5a70fc6a8e796034c44ae5a04d6600f409f14fcc51911563.png",
+            "version": "MiLK PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "remaster",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "うまるん体操",
+            "category": "POPS＆アニメ",
+            "title": "うまるん体操",
+            "artist": "妹Ｓ「乾物妹！うまるちゃんR」",
+            "bpm": 170,
+            "imageName": "13559cb816f01762e111ede3b22bc2ce2333e54766061ee072b05bc771b1f9dc.png",
+            "version": "MiLK PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "remaster",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "夏祭り",
+            "category": "POPS＆アニメ",
+            "title": "夏祭り",
+            "artist": "Jitterin' Jinn [covered by ろん]",
+            "bpm": 141,
+            "imageName": "2c22c37826b995607a181f87d9a079186e3e14b2883b8051be6af762e1eef36f.png",
+            "version": "PiNK PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7",
+                    "levelValue": 7,
+                    "internalLevel": null,
+                    "internalLevelValue": 7,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11",
+                    "levelValue": 11,
+                    "internalLevel": null,
+                    "internalLevelValue": 11,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "SAVIOR OF SONG",
+            "category": "POPS＆アニメ",
+            "title": "SAVIOR OF SONG",
+            "artist": "ナノ feat.MY FIRST STORY",
+            "bpm": 192,
+            "imageName": "f41cac39eeda33f1bce1f167429d9238a5c55d82d9a54f895f579dbb98a5edb0.png",
+            "version": "ORANGE PLUS",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9+",
+                    "levelValue": 9.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 9.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "13",
+                    "levelValue": 13,
+                    "internalLevel": null,
+                    "internalLevelValue": 13,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "かくしん的☆めたまるふぉ～ぜっ！",
+            "category": "POPS＆アニメ",
+            "title": "かくしん的☆めたまるふぉ～ぜっ！",
+            "artist": "土間うまる [CV.田中あいみ]「乾物妹！うまるちゃん」",
+            "bpm": 139,
+            "imageName": "2186763113591920cea92409e166c4c447ac57bdd9e2f390086cdc317bf3ec08.png",
+            "version": "PiNK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "dx",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "dx",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "8+",
+                    "levelValue": 8.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 8.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "11+",
+                    "levelValue": 11.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 11.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "remaster",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 12.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "Deep in Abyss",
+            "category": "POPS＆アニメ",
+            "title": "Deep in Abyss",
+            "artist": "リコ（CV：富田美憂）、レグ（CV：伊瀬茉莉也）",
+            "bpm": 135,
+            "imageName": "086b46a03f19b5c0cff628cdb6633d85d5149a927d13acacf649b7e77afd8c50.png",
+            "version": "FiNALE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "9",
+                    "levelValue": 9,
+                    "internalLevel": null,
+                    "internalLevelValue": 9,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "12",
+                    "levelValue": 12,
+                    "internalLevel": null,
+                    "internalLevelValue": 12,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "NOISY LOVE POWER☆",
+            "category": "POPS＆アニメ",
+            "title": "NOISY LOVE POWER☆",
+            "artist": "大橋彩香",
+            "bpm": 140,
+            "imageName": "92ff400b27c2b3f8c1b4942e9fe44b2a9c473a631ec74c8cc9619963881bee89.png",
+            "version": "FiNALE",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "10",
+                    "levelValue": 10,
+                    "internalLevel": null,
+                    "internalLevelValue": 10,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "remaster",
+                    "level": "12+",
+                    "levelValue": 12.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 12.6,
+                    "isSpecial": false
+                }
+            ]
+        },
+        {
+            "songId": "極上スマイル",
+            "category": "POPS＆アニメ",
+            "title": "極上スマイル",
+            "artist": "Wake Up, Girls！",
+            "bpm": 143,
+            "imageName": "ec8cde872e2ff1873a54f8fea43b4135983a2623f730b3814cc553da434e18b7.png",
+            "version": "PiNK",
+            "theme": "",
+            "sheets": [
+                {
+                    "type": "std",
+                    "difficulty": "expert",
+                    "level": "7+",
+                    "levelValue": 7.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 7.6,
+                    "isSpecial": false
+                },
+                {
+                    "type": "std",
+                    "difficulty": "master",
+                    "level": "10+",
+                    "levelValue": 10.6,
+                    "internalLevel": null,
+                    "internalLevelValue": 10.6,
+                    "isSpecial": false
+                }
+            ]
+        }
+    ]
+}

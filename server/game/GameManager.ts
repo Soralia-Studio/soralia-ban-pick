@@ -8,12 +8,13 @@ import {
     PhaseOrder,
     SocketEvent,
 } from "../../lib/types";
-import fullData from "../data/maimai_song_final.json";
+import fullData from "../data/maimai_song.json";
 import top16Data from "../data/presets/top_16.json";
 import top8Data from "../data/presets/top_8.json";
 import qfData from "../data/presets/quarter_finals.json";
 import sfData from "../data/presets/semi_finals.json";
 import finalsData from "../data/presets/finals.json";
+import testData from "../data/pool_test.json";
 
 export class GameManager {
     private io: Server;
@@ -45,6 +46,17 @@ export class GameManager {
     private getSongsForPreset(preset: PresetType): Song[] {
         let pool: Song[] = [];
         switch (preset) {
+            case "tests": {
+                const allTestSongs = (testData as unknown as { songs: Song[] }).songs;
+                const metropolisSongs = allTestSongs.filter((song: any) => song.theme === "Youth");
+                
+                if (metropolisSongs.length < 8) {
+                    return metropolisSongs;
+                }
+                
+                const shuffled = [...metropolisSongs].sort(() => 0.5 - Math.random());
+                return shuffled.slice(0, 8);
+            }
             case "top_16":
                 pool = top16Data.songs as unknown as Song[];
                 break;
