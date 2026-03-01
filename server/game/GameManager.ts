@@ -7,6 +7,7 @@ import {
     PresetType,
     PhaseOrder,
     SocketEvent,
+    RevealPermission,
 } from "../../lib/types";
 import fullData from "../data/maimai_song.json";
 import top16Data from "../data/presets/top_16.json";
@@ -35,6 +36,7 @@ export class GameManager {
             rpsWinner: null,
             activePlayer: null,
             preset: "random",
+            revealPermission: RevealPermission.Admin,
         };
     }
 
@@ -87,7 +89,7 @@ export class GameManager {
         socket.emit<SocketEvent>("game_state_update", this.state);
 
         socket.on<SocketEvent>("game_action", (action: GameAction) => {
-            this.processAction(action);
+            this.processAction(socket, action);
             this.io.emit<SocketEvent>("game_state_update", this.state);
         });
 
@@ -96,7 +98,7 @@ export class GameManager {
         });
     }
 
-    private processAction(action: GameAction) {
+    private processAction(socket: Socket, action: GameAction) {
         switch (action.type) {
             case ActionType.START_GAME:
                 if (this.state.preset === "random") {
@@ -111,6 +113,12 @@ export class GameManager {
                 if (action.payload?.songId) {
                     const songId = action.payload.songId;
                     if (!this.state.revealedSongs.includes(songId)) {
+                        // Check permission
+                        const allowed = (this.state.revealPermission === RevealPermission.Admin && socket.data.role === "admin") ||
+                                        (this.state.revealPermission === RevealPermission.Player && socket.data.role === "player");
+
+                        if (!allowed) return;
+
                         this.state.revealedSongs.push(songId);
                         // are all songs revealed?
                         // move to rps if yes
@@ -186,6 +194,12 @@ export class GameManager {
                             this.state.phase = PhaseOrder.Finished;
                         }
                     }
+                }
+                break;
+            case ActionType.SET_REVEAL_PERMISSION:
+                this.state = {
+                    ...this.state,
+                    revealPermission: action.payload?.permission ?? this.state.revealPermission,
                 }
                 break;
             case ActionType.RESET:

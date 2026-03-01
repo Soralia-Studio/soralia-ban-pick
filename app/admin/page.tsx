@@ -2,7 +2,7 @@
 
 import { Board } from "@/components/game/Board";
 import { useSocket } from "@/components/providers/SocketProvider";
-import { BoardMode, ActionType, PhaseOrder, PresetType } from "@/lib/types";
+import { BoardMode, ActionType, PhaseOrder, PresetType, RevealPermission } from "@/lib/types";
 
 export default function AdminPage() {
     const { sendAction, gameState } = useSocket();
@@ -12,6 +12,21 @@ export default function AdminPage() {
             <div className="flex justify-between items-center mb-8">
                 <h1 className="text-3xl font-bold">Admin Controller</h1>
                 <div className="flex gap-2">
+                    <select
+                        value={gameState?.revealPermission}
+                        onChange={(e) => {
+                            sendAction({
+                                type: ActionType.SET_REVEAL_PERMISSION,
+                                payload: {
+                                    permission: Number(e.target.value),
+                                },
+                            });
+                        }}
+                        className="px-4 py-2 bg-gray-700 text-white rounded"
+                    >
+                        <option value={RevealPermission.Admin}>Admin Reveal</option>
+                        <option value={RevealPermission.Player}>Player Reveal</option>
+                    </select>
                     <select
                         value={gameState?.preset || "random"}
                         onChange={(e) =>

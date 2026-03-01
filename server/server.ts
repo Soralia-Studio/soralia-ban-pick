@@ -28,6 +28,9 @@ app.prepare().then(() => {
     const gameManager = new GameManager(io);
 
     io.on("connection", (socket) => {
+        const role = socket.handshake.auth?.role;       
+        socket.data.role = role === "admin" ? "admin" : "player";
+
         console.log("Client connected:", socket.id);
         gameManager.handleConnection(socket);
     });
