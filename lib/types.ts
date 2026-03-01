@@ -79,6 +79,7 @@ export interface GameState {
     rpsWinner: PlayerSide;
     activePlayer: string | null;
     preset: PresetType;
+    revealPermission: RevealPermission;
 }
 
 export enum ActionType {
@@ -90,6 +91,7 @@ export enum ActionType {
     PICK_SONG,
     RESET,
     SET_PRESET,
+    SET_REVEAL_PERMISSION,
 }
 
 export interface GameAction {
@@ -99,7 +101,13 @@ export interface GameAction {
         playerId?: string;
         winner?: PlayerSide;
         preset?: PresetType;
+        permission?: RevealPermission
     };
+}
+
+export enum RevealPermission {
+    Admin,
+    Player
 }
 
 export type SocketEvent =
