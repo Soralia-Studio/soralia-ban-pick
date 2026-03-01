@@ -3,7 +3,7 @@
 import React from "react";
 import { useSocket } from "../providers/SocketProvider";
 import { SongCard } from "./SongCard";
-import { BoardMode, ActionType, PhaseOrder } from "@/lib/types";
+import { BoardMode, ActionType, PhaseOrder  } from "@/lib/types";
 
 export const Board = ({ mode = BoardMode.Spectator }: { mode?: BoardMode }) => {
   const { gameState, sendAction } = useSocket();
@@ -44,6 +44,7 @@ export const Board = ({ mode = BoardMode.Spectator }: { mode?: BoardMode }) => {
           </span>
         )}
       </h2>
+
       <div className="grid grid-cols-4 gap-2 max-w-4xl mx-auto">
         {gameState.songs.map((song) => {
           const isBanned = gameState.bannedSongs.includes(song.songId);

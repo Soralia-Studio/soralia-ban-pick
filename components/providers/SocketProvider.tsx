@@ -20,13 +20,17 @@ const SocketContext = createContext<SocketContextType>({
 
 export const useSocket = () => useContext(SocketContext);
 
-export const SocketProvider = ({ children }: { children: React.ReactNode }) => {
+export const SocketProvider = ({ children, role }: { children: React.ReactNode, role: "admin" | "player" }) => {
     const [isConnected, setIsConnected] = useState(false);
     const [gameState, setGameState] = useState<GameState | null>(null);
     const [socketInstance, setSocketInstance] = useState<Socket | null>(null);
 
     useEffect(() => {
-        const socket = io();
+        const socket = io({
+            auth: {
+                role,
+            }
+        });
 
         socket.on<SocketEvent>("connect", () => {
             setIsConnected(true);
