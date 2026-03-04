@@ -47,27 +47,68 @@ export const Board = ({ mode = BoardMode.Spectator }: { mode?: BoardMode }) => {
 
       <div className="grid grid-cols-4 gap-2 max-w-4xl mx-auto">
         {gameState.songs.map((song) => {
-          const isBanned = gameState.bannedSongs.includes(song.songId);
-          const isPicked = gameState.pickedSongs.includes(song.songId);
+          let isBanned = false;
+          let isPicked = false;
           const isProtected = gameState.protectedSong === song.songId;
 
-          let isRevealed = true;
-          if (mode === BoardMode.Admin) {
-            if (gameState.phase === PhaseOrder.Revealing) {
-              isRevealed =
-                gameState.revealedSongs?.includes(song.songId) ?? false;
-            } else {
-              isRevealed = true;
+          if(mode === BoardMode.Spectator) {
+            // Spectators only see banned/picked/protected status after a phase is finished
+            if(gameState.phase > PhaseOrder.Banning) {
+              isBanned = gameState.bannedSongs.includes(song.songId);
+            }
+            if(gameState.phase > PhaseOrder.Picking) {
+              isPicked = gameState.pickedSongs.includes(song.songId);
             }
           } else {
-            if (gameState.phase < PhaseOrder.Revealing) {
-              isRevealed = false;
-            } else if (gameState.phase === PhaseOrder.Revealing) {
-              isRevealed =
-                gameState.revealedSongs?.includes(song.songId) ?? false;
-            } else {
-              isRevealed = true;
+            // Admins and Players see real-time status
+            isBanned = gameState.bannedSongs.includes(song.songId);
+            isPicked = gameState.pickedSongs.includes(song.songId);
+          }
+
+          let isRevealed = false;
+
+          if (mode === BoardMode.Admin) {
+
+            switch (gameState.phase) {
+
+              case PhaseOrder.Waiting:
+                isRevealed = true;
+                break;
+
+              case PhaseOrder.RPS:
+              case PhaseOrder.Protecting:
+                isRevealed = false;
+                break;
+
+              case PhaseOrder.Revealing:
+                isRevealed =
+                  gameState.revealedSongs?.includes(song.songId) ?? false;
+                break;
+              default:
+                isRevealed = true;
             }
+
+          } else {
+
+            switch (gameState.phase) {
+
+              case PhaseOrder.Revealing:
+                isRevealed =
+                  gameState.revealedSongs?.includes(song.songId) ?? false;
+                break;
+              case PhaseOrder.Banning:
+              case PhaseOrder.Picking:
+              case PhaseOrder.Finished:
+                isRevealed = true;
+                break;
+
+              default:
+                isRevealed = false;
+            }
+          }
+
+          if(isProtected && gameState.phase != PhaseOrder.Finished) {
+            isRevealed = false;
           }
 
           const protectedBy = isProtected ? gameState.protectedBy : null;

@@ -101,12 +101,8 @@ export class GameManager {
     private processAction(socket: Socket, action: GameAction) {
         switch (action.type) {
             case ActionType.START_GAME:
-                if (this.state.preset === "random") {
-                    this.state.phase = PhaseOrder.RPS;
-                } else {
-                    this.state.phase = PhaseOrder.Revealing;
-                    this.state.revealedSongs = [];
-                }
+                this.state.phase = PhaseOrder.RPS;
+                this.state.revealedSongs = [];
                 break;
             case ActionType.REVEAL_SONG:
                 if (this.state.phase !== PhaseOrder.Revealing) return;
@@ -120,13 +116,12 @@ export class GameManager {
                         if (!allowed) return;
 
                         this.state.revealedSongs.push(songId);
-                        // are all songs revealed?
-                        // move to rps if yes
+                        // Move to banning phase if all songs are revealed (except protected one)
                         if (
                             this.state.revealedSongs.length >=
-                            this.state.songs.length
+                            this.state.songs.length - (this.state.protectedSong ? 1 : 0)
                         ) {
-                            this.state.phase = PhaseOrder.RPS;
+                            this.state.phase = PhaseOrder.Banning;
                         }
                     }
                 }
@@ -161,7 +156,7 @@ export class GameManager {
                     const songId = action.payload.songId;
                     this.state.protectedSong = songId;
                     this.state.protectedBy = this.state.rpsWinner;
-                    this.state.phase = PhaseOrder.Banning;
+                    this.state.phase = PhaseOrder.Revealing;
                 }
                 break;
             case ActionType.BAN_SONG:
