@@ -49,9 +49,9 @@ export interface Song {
 
 export enum PhaseOrder {
     Waiting,
-    Revealing,
     RPS,
     Protecting,
+    Revealing,
     Banning,
     Picking,
     Finished,

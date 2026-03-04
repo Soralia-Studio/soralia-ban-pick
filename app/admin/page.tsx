@@ -49,15 +49,31 @@ export default function AdminPage() {
                         <option value="finals">Finals</option>
                     </select>
                     <button
-                        onClick={() =>
-                            sendAction({ type: ActionType.START_GAME })
+                        onClick={() => {
+                                if(gameState?.phase === PhaseOrder.Revealing) {
+                                    // Reveal all songs if currently in revealing phase
+                                    for(const song of gameState.songs) {
+                                        if(!gameState.revealedSongs.includes(song.songId)) {
+                                            sendAction({ type: ActionType.REVEAL_SONG, payload: { songId: song.songId } });
+                                        }
+                                    }
+
+                                    return;
+                                }
+                                sendAction({ type: ActionType.START_GAME })
+                            }
                         }
                         className="px-4 py-2 bg-green-600 text-white rounded"
-                        disabled={gameState?.phase !== PhaseOrder.Waiting}
+                        disabled={gameState?.phase !== PhaseOrder.Waiting && gameState?.phase !== PhaseOrder.Revealing}
                     >
-                        {gameState?.preset === "random"
-                            ? "Start Game (RPS)"
-                            : "Start Game (Reveal)"}
+                        {(() => {
+                            switch(gameState?.phase) {
+                                case PhaseOrder.Waiting:
+                                    return "Start Game";
+                                default:
+                                    return "Start Revealing";
+                            }
+                        })()}
                     </button>
                     {gameState?.phase === PhaseOrder.RPS && (
                         <>
