@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react";
+import React, { useEffect } from "react";
 import { useSocket } from "../providers/SocketProvider";
 import { SongCard } from "./SongCard";
 import { BoardMode, ActionType, PhaseOrder  } from "@/lib/types";
