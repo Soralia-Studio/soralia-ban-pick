@@ -80,6 +80,7 @@ export interface GameState {
     activePlayer: string | null;
     preset: PresetType;
     revealPermission: RevealPermission;
+    themeIndex: number;
 }
 
 export enum ActionType {
@@ -92,6 +93,7 @@ export enum ActionType {
     RESET,
     SET_PRESET,
     SET_REVEAL_PERMISSION,
+    SET_THEME,
 }
 
 export interface GameAction {
@@ -101,7 +103,8 @@ export interface GameAction {
         playerId?: string;
         winner?: PlayerSide;
         preset?: PresetType;
-        permission?: RevealPermission
+        permission?: RevealPermission;
+        themeIndex?: number;
     };
 }
 

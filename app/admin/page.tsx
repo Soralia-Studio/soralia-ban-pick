@@ -1,11 +1,43 @@
 "use client";
 
+import { useEffect } from "react";
 import { Board } from "@/components/game/Board";
 import { useSocket } from "@/components/providers/SocketProvider";
 import { BoardMode, ActionType, PhaseOrder, PresetType, RevealPermission } from "@/lib/types";
 
 export default function AdminPage() {
     const { sendAction, gameState } = useSocket();
+
+    useEffect(() => {
+        const handleKeyDown = (event: KeyboardEvent) => {
+            const target = event.target as HTMLElement | null;
+            const tagName = target?.tagName?.toLowerCase();
+            const isTypingElement =
+                tagName === "input" ||
+                tagName === "textarea" ||
+                tagName === "select" ||
+                target?.isContentEditable;
+
+            if (isTypingElement) return;
+
+            if (event.key === "1") {
+                sendAction({
+                    type: ActionType.SET_THEME,
+                    payload: { themeIndex: 0 },
+                });
+            }
+
+            if (event.key === "2") {
+                sendAction({
+                    type: ActionType.SET_THEME,
+                    payload: { themeIndex: 1 },
+                });
+            }
+        };
+
+        window.addEventListener("keydown", handleKeyDown);
+        return () => window.removeEventListener("keydown", handleKeyDown);
+    }, [sendAction]);
 
     return (
         <main className="min-h-screen p-8">
@@ -118,6 +150,10 @@ export default function AdminPage() {
                     <p className="text-white">
                         Preset:{" "}
                         <span className="font-bold">{gameState.preset}</span>
+                    </p>
+                    <p className="text-white">
+                        Theme Keybind:{" "}
+                        <span className="font-bold">{gameState.themeIndex + 1}</span>
                     </p>
                     {gameState.rpsWinner && (
                         <p className="text-white">

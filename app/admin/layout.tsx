@@ -4,10 +4,10 @@ import { BackgroundProvider } from "@/components/providers/BackgroundProvider";
 
 export default function AdminLayout({ children }: Readonly<{ children: React.ReactNode }>) {
     return (
-        <BackgroundProvider>
-            <SocketProvider role="admin">
+        <SocketProvider role="admin">
+            <BackgroundProvider>
                 {children}
-            </SocketProvider>
-        </BackgroundProvider>
+            </BackgroundProvider>
+        </SocketProvider>
     )
 }

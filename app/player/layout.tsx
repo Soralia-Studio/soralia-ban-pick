@@ -4,10 +4,10 @@ import { BackgroundProvider } from "@/components/providers/BackgroundProvider";
 
 export default function PlayerLayout({ children }: Readonly<{ children: React.ReactNode }>) {
     return (
-        <BackgroundProvider>
-            <SocketProvider role="player">
+        <SocketProvider role="player">
+            <BackgroundProvider>
                 {children}
-            </SocketProvider>
-        </BackgroundProvider>
+            </BackgroundProvider>
+        </SocketProvider>
     )
 }
