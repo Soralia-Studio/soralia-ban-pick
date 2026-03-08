@@ -4,10 +4,10 @@ import { BackgroundProvider } from "@/components/providers/BackgroundProvider";
 
 export default function SpectatorLayout({ children }: Readonly<{ children: React.ReactNode }>) {
     return (
-        <BackgroundProvider>
-            <SocketProvider role="spectator">
+        <SocketProvider role="spectator">
+            <BackgroundProvider>
                 {children}
-            </SocketProvider>
-        </BackgroundProvider>
+            </BackgroundProvider>
+        </SocketProvider>
     )
 }

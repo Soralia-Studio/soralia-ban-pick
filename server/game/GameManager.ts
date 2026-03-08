@@ -17,6 +17,8 @@ import sfData from "../data/presets/semi_finals.json";
 import finalsData from "../data/presets/finals.json";
 import testData from "../data/pool_test.json";
 
+const THEME_COUNT = 2;
+
 export class GameManager {
     private io: Server;
     private state: GameState;
@@ -37,6 +39,7 @@ export class GameManager {
             activePlayer: null,
             preset: "random",
             revealPermission: RevealPermission.Admin,
+            themeIndex: 0,
         };
     }
 
@@ -197,6 +200,16 @@ export class GameManager {
                     revealPermission: action.payload?.permission ?? this.state.revealPermission,
                 }
                 break;
+            case ActionType.SET_THEME: {
+                if (socket.data.role !== "admin") return;
+
+                const nextThemeIndex = action.payload?.themeIndex;
+                if (typeof nextThemeIndex !== "number") return;
+                if (nextThemeIndex < 0 || nextThemeIndex >= THEME_COUNT) return;
+
+                this.state.themeIndex = nextThemeIndex;
+                break;
+            }
             case ActionType.RESET:
                 this.state.phase = PhaseOrder.Waiting;
                 this.state.revealedSongs = [];
