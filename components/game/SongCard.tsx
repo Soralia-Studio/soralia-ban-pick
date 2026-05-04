@@ -37,38 +37,38 @@ export const SongCard = ({
 
     return (
         <Card
-            className={`relative p-2 bg-[#C8CDE2] rounded-xl border-4 border-[#0F3674] ${statusClass} transition-all duration-500`}
+            className={`relative p-1.5 bg-[#C8CDE2] rounded-lg border-2 border-[#0F3674] ${statusClass} transition-all duration-500`}
             onClick={onClick}
         >
             {/* Hidden State Overlay */}
             {!isRevealed && (
                 <div className="absolute inset-0 z-30 bg-[#0F3674] rounded-lg flex items-center justify-center cursor-pointer hover:bg-[#1a4b96] transition-colors">
-                    <div className="text-white text-6xl font-bold opacity-20">
+                    <div className="text-white text-4xl font-bold opacity-20">
                         ?
                     </div>
                 </div>
             )}
 
             {/* image */}
-            <div className="relative w-full aspect-square mb-2 rounded-sm overflow-hidden border-2 border-[#0F3674] bg-white">
+            <div className="relative w-full aspect-square mb-1 rounded-sm overflow-hidden border border-[#0F3674] bg-white">
                 <Image
                     src={`https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/${song.imageName}`}
                     alt={song.title}
                     className="object-cover w-full h-full"
-                    width={200}
-                    height={200}
+                    width={140}
+                    height={140}
                 />
             </div>
 
             {/* diff */}
-            <div className="text-center -mt-1 mb-1 relative z-10">
-                <span className="text-2xl font-black text-white tracking-wider uppercase text-shadow-[2px_2px_0_#0F3674]">
+            <div className="text-center -mt-0.5 mb-0.5 relative z-10">
+                <span className="text-base font-black text-white tracking-wide uppercase text-shadow-[1px_1px_0_#0F3674]">
                     {difficultyLabel}
                 </span>
             </div>
 
             {/* title */}
-            <div className="bg-[#0F3674] text-white text-center py-1.5 px-2 font-bold truncate rounded-sm text-sm">
+            <div className="bg-[#0F3674] text-white text-center py-1 px-1 font-bold truncate rounded-sm text-xs">
                 {song.title}
             </div>
 

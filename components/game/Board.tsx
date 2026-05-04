@@ -35,16 +35,16 @@ export const Board = ({ mode = BoardMode.Spectator }: { mode?: BoardMode }) => {
   };
 
   return (
-    <div className="p-6">
-      <h2 className="text-2xl font-bold mb-4">
+    <div className="p-3">
+      <h2 className="text-lg font-bold mb-2">
         Phase: {gameState.phase}
         {gameState.phase === PhaseOrder.Protecting && gameState.rpsWinner && (
-          <span className="ml-4 text-lg text-blue-400">
+          <span className="ml-2 text-sm text-blue-400">
             ({gameState.rpsWinner} selecting protected song)
           </span>
         )}
       </h2>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <div className="grid grid-cols-4 gap-2 max-w-4xl mx-auto">
         {gameState.songs.map((song) => {
           const isBanned = gameState.bannedSongs.includes(song.songId);
           const isPicked = gameState.pickedSongs.includes(song.songId);

@@ -8,7 +8,7 @@ import {
     PhaseOrder,
     SocketEvent,
 } from "../../lib/types";
-import fullData from "../data/maimai_song_filtered.json";
+import fullData from "../data/maimai_song_final.json";
 import top16Data from "../data/presets/top_16.json";
 import top8Data from "../data/presets/top_8.json";
 import qfData from "../data/presets/quarter_finals.json";
